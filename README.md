@@ -1,2 +1,1 @@
-# PVBNF
-Research scripts for explore BNF in Pteris vittata
+Lin, J., Dai, H., Yuan, J. et al. Arsenic-induced enhancement of diazotrophic recruitment and nitrogen fixation in Pteris vittata rhizosphere. Nat Commun 15, 10003 (2024). https://doi.org/10.1038/s41467-024-54392-x
